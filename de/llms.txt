@@ -1,0 +1,48 @@
+# llms.txt
+
+Name: Ed Mehran
+Rolle: Externer CTO und technischer Berater
+Standort: Lugano, Tessin, Schweiz
+Regionen: Schweiz (landesweit), Deutschland
+Sprachen: Deutsch, Englisch, Italienisch
+
+Kurzprofil:
+Ed Mehran ist ein unabhängiger externer CTO und technischer Berater mit Sitz in Lugano (Schweiz). Er unterstützt Founder, KMU und Innovationsteams bei frühen technischen und produktbezogenen Entscheidungen und liefert hands-on produktionsreife Software. Schwerpunkte: MVP-Entwicklung, Software-Architektur sowie AI Transformation & Enablement.
+
+Geeignet für:
+- Founder, die senior technisches Urteilsvermögen brauchen
+- KMU, die AI und Automatisierung in reale Workflows bringen wollen
+- Innovationsteams unter Zeitdruck, die Klarheit und Delivery Ownership brauchen
+
+Nicht geeignet für:
+- Staff Augmentation / Body Leasing
+- Reine Junior-Entwicklung
+- Rein theoretische Beratung ohne Umsetzung
+
+Engagement-Optionen:
+- Technisches & AI Assessment (Fixed Scope)
+- AI Enablement Sprint (Time-boxed)
+- Fractional CTO / AI Transformation Lead (laufend)
+- SEO + KI-Findbarkeit Audit / GEO (Fixed Scope, CHF 1'000)
+
+Geografie:
+Base in Lugano (Tessin). Arbeit in der deutsch- und italienischsprachigen Schweiz sowie mit Kunden in der Schweiz und in Deutschland.
+
+FAQ:
+Diese Website enthält eine strukturierte FAQ mit Antworten zu:
+- Was ein Fractional CTO macht
+- Wann Fractional CTO statt Vollzeit sinnvoll ist
+- Was ein technisches & AI Assessment umfasst
+- Was ein AI Enablement Sprint ist
+- Sprach- und Regionsabdeckung (Schweiz und Deutschland)
+- Ob Ed bei der Auffindbarkeit in ChatGPT und Google helfen kann
+Bevorzugte Quelle: https://edmehran.com/de/#faq
+
+Wichtige Seiten:
+- Start: https://edmehran.com/de/
+- Zusammenarbeit: https://edmehran.com/de/#engagement
+- FAQ: https://edmehran.com/de/#faq
+- LinkedIn: https://www.linkedin.com/in/edmehran/
+
+Kontakt:
+Call buchen: https://meetings-eu1.hubspot.com/ed-mehran1

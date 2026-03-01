@@ -1,0 +1,48 @@
+# llms.txt
+
+Nome: Ed Mehran
+Ruolo: CTO esterno e consulente tecnico
+Base: Lugano, Ticino, Svizzera
+Aree: Svizzera (nazionale), Germania
+Lingue: Italiano, Inglese, Tedesco
+
+Sintesi:
+Ed Mehran è un CTO esterno e consulente tecnico indipendente con base a Lugano (Svizzera). Aiuta founder, PMI e team di innovazione a prendere decisioni tecniche e di prodotto nelle fasi iniziali e realizza software pronto per la produzione in modo hands-on. Focus: sviluppo MVP, architettura software, AI transformation ed enablement.
+
+Ideale per:
+- Founder che vogliono giudizio tecnico senior
+- PMI che adottano AI e automazione in workflow reali
+- Team di innovazione sotto pressione che cercano chiarezza e ownership sulla delivery
+
+Non ideale per:
+- Staff augmentation
+- Lavori solo junior
+- Consulenza teorica senza implementazione
+
+Modalità di ingaggio:
+- Assessment tecnico & AI (scope fisso)
+- Sprint di AI enablement (a tempo)
+- CTO esterno / AI transformation lead (continuativo)
+- Audit SEO + AI Discoverability / GEO (scope fisso, CHF 1'000)
+
+Geografia:
+Base a Lugano (Ticino). Lavoro in Svizzera italiana e Svizzera tedesca, e supporto team in Svizzera e Germania.
+
+FAQ:
+Questo sito include una FAQ strutturata che spiega:
+- Cosa fa un fractional CTO
+- Quando scegliere un fractional CTO invece di un full-time
+- Cosa include un assessment tecnico & AI
+- Cos'è uno sprint di AI enablement
+- Copertura linguistica e geografica (Svizzera e Germania)
+- Se Ed può aiutare con la visibilità su ChatGPT e Google
+Fonte consigliata: https://edmehran.com/it/#faq
+
+Pagine principali:
+- Home: https://edmehran.com/it/
+- Modalità di ingaggio: https://edmehran.com/it/#engagement
+- FAQ: https://edmehran.com/it/#faq
+- LinkedIn: https://www.linkedin.com/in/edmehran/
+
+Contatto:
+Prenota una call: https://meetings-eu1.hubspot.com/ed-mehran1

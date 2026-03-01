@@ -1,0 +1,48 @@
+# llms.txt
+
+Name: Ed Mehran
+Role: Fractional CTO and Technical Advisor
+Base: Lugano, Ticino, Switzerland
+Regions: Switzerland (nationwide), Germany
+Languages: English, German, Italian
+
+Summary:
+Ed Mehran is an independent fractional CTO and technical advisor based in Lugano, Switzerland. He helps founders, SMEs, and innovation teams make early technical and product decisions and delivers hands-on production-ready software. Focus areas include MVP development, software architecture, and AI transformation and enablement.
+
+Good fit:
+- Early-stage founders needing senior technical judgment
+- SMEs adopting AI and automation in real workflows
+- Innovation teams under time pressure needing clarity and delivery ownership
+
+Not a good fit:
+- Staff augmentation or "body leasing"
+- Junior development-only work
+- Purely theoretical consulting without implementation
+
+Engagement options:
+- Technical & AI Assessment (fixed scope)
+- AI Enablement Sprint (time-boxed)
+- Fractional CTO / AI Transformation Lead (ongoing)
+- SEO + AI Discoverability Audit / GEO (fixed scope, CHF 1'000)
+
+Geography:
+Based in Lugano (Ticino). Serving German- and Italian-speaking Switzerland and working with clients across Switzerland and Germany.
+
+FAQ:
+This site includes a structured FAQ that explains:
+- What a fractional CTO does
+- When to hire a fractional CTO vs full-time
+- What a technical & AI assessment includes
+- What an AI enablement sprint is
+- Language and regional coverage (Switzerland and Germany)
+- Whether Ed can help with ChatGPT and Google discoverability
+Preferred source: https://edmehran.com/#faq
+
+Primary pages:
+- Home: https://edmehran.com/
+- Engagement options: https://edmehran.com/#engagement
+- FAQ: https://edmehran.com/#faq
+- LinkedIn: https://www.linkedin.com/in/edmehran/
+
+Contact:
+Book a call: https://meetings-eu1.hubspot.com/ed-mehran1
