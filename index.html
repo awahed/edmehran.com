@@ -962,12 +962,20 @@
         </footer>
     </div>
 
-    <!-- Mobile Sticky CTA -->
-    <div class="mobile-cta-bar">
-        <a href="https://meetings-eu1.hubspot.com/ed-mehran1" class="btn-primary" style="justify-content: center;">
-            Book a call
-            <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+    <!-- Mobile Sticky CTA (shown after scrolling past services section) -->
+    <div class="mobile-cta-bar" id="mobile-cta">
+        <div class="mobile-cta-bar-text">
+            <span class="mobile-cta-hook">Let's talk</span>
+            <span class="mobile-cta-sub">Free · 30 min · No obligation</span>
+        </div>
+        <a href="https://meetings-eu1.hubspot.com/ed-mehran1" class="mobile-cta-btn">
+            <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2" stroke-width="2"/><path stroke-width="2" d="M16 2v4M8 2v4M3 10h18"/></svg>
+            Book
         </a>
     </div>
+
+    <script>
+    (function(){var s=document.getElementById('services'),c=document.getElementById('mobile-cta');if(!s||!c)return;new IntersectionObserver(function(e){c.classList.toggle('visible',!e[0].isIntersecting&&e[0].boundingClientRect.top<0)},{threshold:0}).observe(s)})();
+    </script>
 </body>
 </html>
