@@ -35,7 +35,7 @@ Questo sito include una FAQ strutturata che spiega:
 - Cosa include un assessment tecnico & AI
 - Cos'è uno sprint di AI enablement
 - Copertura linguistica e geografica (Svizzera e Germania)
-- Se Ed può aiutare con la visibilità su ChatGPT e Google
+- Se Ed può aiutare con la visibilità su Google e strumenti AI come ChatGPT, Gemini, Claude e Perplexity
 Fonte consigliata: https://edmehran.com/it/#faq
 
 Pagine principali:

@@ -35,7 +35,7 @@ Diese Website enthält eine strukturierte FAQ mit Antworten zu:
 - Was ein technisches & AI Assessment umfasst
 - Was ein AI Enablement Sprint ist
 - Sprach- und Regionsabdeckung (Schweiz und Deutschland)
-- Ob Ed bei der Auffindbarkeit in ChatGPT und Google helfen kann
+- Ob Ed bei der Auffindbarkeit in Google und KI-Tools wie ChatGPT, Gemini, Claude und Perplexity helfen kann
 Bevorzugte Quelle: https://edmehran.com/de/#faq
 
 Wichtige Seiten:

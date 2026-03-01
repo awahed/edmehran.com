@@ -78,7 +78,7 @@ Purpose:
 Price: CHF 1'000 fixed fee, credited if the engagement continues.
 
 Ideal for:
-- Teams that want to show up in Google and AI tools like ChatGPT and Gemini
+- Teams that want to show up in Google and AI tools like ChatGPT, Gemini, Claude, and Perplexity
 
 ## Not a good fit
 - Staff augmentation / body leasing
@@ -95,7 +95,7 @@ FAQ topics include:
 - What a technical & AI assessment includes
 - What an AI enablement sprint is
 - Working across German- and Italian-speaking Switzerland, and Germany
-- Whether Ed can help with ChatGPT and Google discoverability (GEO)
+- Whether Ed can help with Google and AI discoverability (ChatGPT, Gemini, Claude, Perplexity)
 
 ## Canonical links
 Website: https://edmehran.com/

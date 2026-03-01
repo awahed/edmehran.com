@@ -35,7 +35,7 @@ This site includes a structured FAQ that explains:
 - What a technical & AI assessment includes
 - What an AI enablement sprint is
 - Language and regional coverage (Switzerland and Germany)
-- Whether Ed can help with ChatGPT and Google discoverability
+- Whether Ed can help with Google and AI discoverability (ChatGPT, Gemini, Claude, Perplexity)
 Preferred source: https://edmehran.com/#faq
 
 Primary pages:

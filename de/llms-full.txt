@@ -73,7 +73,7 @@ Ziel:
 Preis: CHF 1'000 Fixpreis, wird bei Folgeauftrag angerechnet.
 
 Ideal für:
-- Teams, die in Google und KI-Tools wie ChatGPT und Gemini besser gefunden werden wollen
+- Teams, die in Google und KI-Tools wie ChatGPT, Gemini, Claude und Perplexity besser gefunden werden wollen
 
 ## Nicht geeignet
 - Staff Augmentation / Body Leasing
@@ -90,7 +90,7 @@ FAQ-Themen:
 - Was ein technisches & AI Assessment umfasst
 - Was ein AI Enablement Sprint ist
 - Arbeit in der deutsch- und italienischsprachigen Schweiz sowie in Deutschland
-- Ob Ed bei der Auffindbarkeit in ChatGPT und Google helfen kann (GEO)
+- Ob Ed bei der Auffindbarkeit in Google und KI-Tools wie ChatGPT, Gemini, Claude und Perplexity helfen kann (GEO)
 
 ## Links
 Website: https://edmehran.com/de/

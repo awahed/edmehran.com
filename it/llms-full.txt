@@ -72,7 +72,7 @@ Obiettivo:
 Prezzo: CHF 1'000 prezzo fisso, scalato in caso di collaborazione.
 
 Ideale per:
-- Team che vogliono comparire su Google e su strumenti AI come ChatGPT e Gemini
+- Team che vogliono comparire su Google e su strumenti AI come ChatGPT, Gemini, Claude e Perplexity
 
 ## Non ideale
 - Staff augmentation
@@ -89,7 +89,7 @@ Temi FAQ:
 - Cosa include un assessment tecnico & AI
 - Cos'è uno sprint di AI enablement
 - Lavoro in Svizzera italiana e Svizzera tedesca, e con team in Germania
-- Se Ed può aiutare con la visibilità su ChatGPT e Google (GEO)
+- Se Ed può aiutare con la visibilità su Google e strumenti AI come ChatGPT, Gemini, Claude e Perplexity (GEO)
 
 ## Link
 Website: https://edmehran.com/it/
