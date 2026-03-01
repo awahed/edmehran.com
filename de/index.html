@@ -374,15 +374,16 @@
                     <!-- Desktop Nav -->
                     <div class="hidden md:flex items-center space-x-8">
                         <a href="#services" class="nav-link">Leistungen</a>
-                        <a href="#how-i-work" class="nav-link">Prozess</a>
-                        <a href="#background" class="nav-link">Hintergrund</a>
+                        <a href="#geo-audit" class="nav-link">GEO Audit</a>
+                        <a href="#background" class="nav-link">Über mich</a>
+                        <a href="#faq" class="nav-link">FAQ</a>
                     </div>
 
                     <!-- Right Side -->
                     <div class="flex items-center space-x-3">
                         <!-- Language Switcher -->
                         <div class="relative">
-                            <button @click="langMenuOpen = !langMenuOpen" @click.away="langMenuOpen = false" class="btn-ghost" aria-label="Sprache wählen">
+                            <button @click="langMenuOpen = !langMenuOpen" @click.away="langMenuOpen = false" class="btn-ghost" aria-label="DE – Sprache wählen">
                                 <span class="uppercase text-[0.6875rem] font-medium tracking-wide">de</span>
                                 <svg class="w-3 h-3 ml-1 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
@@ -413,8 +414,9 @@
                 <div x-show="mobileMenuOpen" x-cloak x-transition class="md:hidden mobile-menu">
                     <div class="flex flex-col space-y-1">
                         <a href="#services" @click="mobileMenuOpen = false">Leistungen</a>
-                        <a href="#how-i-work" @click="mobileMenuOpen = false">Prozess</a>
-                        <a href="#background" @click="mobileMenuOpen = false">Hintergrund</a>
+                        <a href="#geo-audit" @click="mobileMenuOpen = false">GEO Audit</a>
+                        <a href="#background" @click="mobileMenuOpen = false">Über mich</a>
+                        <a href="#faq" @click="mobileMenuOpen = false">FAQ</a>
                         <div class="pt-2 mt-2 border-t border-slate-100">
                             <a href="#contact" @click="mobileMenuOpen = false" class="btn-primary w-full text-center">Kostenloses Erstgespräch</a>
                         </div>
@@ -746,7 +748,8 @@
                         </div>
 
                         <div class="mb-10">
-                            <p class="text-eyebrow mb-4">Ausgewählte Projekte</p>
+                            <p class="text-eyebrow mb-1">Unternehmen & Produkte, die ich aufgebaut habe</p>
+                            <p class="text-slate-400" style="font-size: 0.75rem; margin-bottom: 1.25rem;">Gegründet oder mitgegründet, mit hands-on Verantwortung für Produkt, Architektur und Umsetzung.</p>
                             <div class="border-t border-slate-100">
                                 <div class="credential-row">
                                     <span class="credential-name">TestRapido</span>
