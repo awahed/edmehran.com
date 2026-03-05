@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Page not found | Ed Mehran</title>
+    <meta name="robots" content="noindex"/>
+    <meta http-equiv="refresh" content="3;url=https://edmehran.com/"/>
+    <link rel="stylesheet" href="/assets/css/style.css"/>
+    <script>
+    (function() {
+        var path = window.location.pathname.replace(/\/+$/, '').toLowerCase();
+        var map = {
+            '/en':                              '/',
+            '/en/services':                     '/#services',
+            '/en/about':                        '/#background',
+            '/en/contact':                      '/#contact',
+            '/en/legal-notice':                 '/legal.html',
+            '/en/statamic':                     '/#services',
+            '/en/shopify':                      '/#services',
+            '/en/laravel':                      '/#services',
+            '/dienstleistungen':                '/de/#services',
+            '/ueber-mich':                      '/de/#background',
+            '/kontakte':                        '/de/#contact',
+            '/legal-notice':                    '/de/legal.html',
+            '/webseitenentwicklung-mit-statamic': '/de/#services',
+            '/shopify':                         '/de/#services',
+            '/laravel-web-software-entwicklung': '/de/#services',
+            '/it':                              '/it/',
+            '/it/servizi':                      '/it/#services',
+            '/it/su-di-me':                     '/it/#background',
+            '/it/contatti':                     '/it/#contact',
+            '/it/legal-notice':                 '/it/legal.html',
+            '/it/statamic':                     '/it/#services',
+            '/it/shopify':                      '/it/#services',
+            '/it/laravel':                      '/it/#services'
+        };
+        var dest = map[path] || '/';
+        window.location.replace(dest);
+    })();
+    </script>
+</head>
+<body class="bg-white text-base text-neutral-900 leading-relaxed">
+    <div style="display: flex; align-items: center; justify-content: center; min-height: 100vh; padding: 2rem;">
+        <div style="text-align: center; max-width: 28rem;">
+            <p class="text-eyebrow mb-2">Page not found</p>
+            <h1 class="text-h2 mb-4">This page has moved.</h1>
+            <p class="text-body mb-6" style="color: rgb(100 116 139);">The site has been restructured. You are being redirected automatically.</p>
+            <a href="/" class="btn-primary">Go to homepage</a>
+        </div>
+    </div>
+</body>
+</html>
