@@ -1237,6 +1237,14 @@ blockquote {
     width: 100%;
 }
 
+.hero-photo-mobile img {
+    width: 7.5rem;
+    height: 7.5rem;
+    border-radius: 9999px;
+    object-fit: cover;
+    border: 2px solid rgb(241 245 249);
+}
+
 .hero-photo-frame {
     position: relative;
 }
