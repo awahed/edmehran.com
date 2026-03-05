@@ -380,7 +380,6 @@
                     <!-- Desktop Nav -->
                     <div class="hidden md:flex items-center space-x-8">
                         <a href="#services" class="nav-link">Servizi</a>
-                        <a href="#geo-audit" class="nav-link">GEO Audit</a>
                         <a href="#background" class="nav-link">Su di me</a>
                         <a href="#faq" class="nav-link">FAQ</a>
                     </div>
@@ -420,7 +419,6 @@
                 <div x-show="mobileMenuOpen" x-cloak x-transition class="md:hidden mobile-menu">
                     <div class="flex flex-col space-y-1">
                         <a href="#services" @click="mobileMenuOpen = false">Servizi</a>
-                        <a href="#geo-audit" @click="mobileMenuOpen = false">GEO Audit</a>
                         <a href="#background" @click="mobileMenuOpen = false">Su di me</a>
                         <a href="#faq" @click="mobileMenuOpen = false">FAQ</a>
                         <div class="pt-2 mt-2 border-t border-slate-100">
@@ -562,83 +560,6 @@
                 </div>
             </section>
 
-            <!-- Entry Offer: GEO Audit -->
-            <section id="geo-audit" class="section" x-data="{ open: false }">
-                <div class="container-wide">
-                    <div class="geo-audit-grid">
-                        <div>
-                            <p class="text-eyebrow mb-2">Partenza rapida</p>
-                            <h2 class="text-h2 mb-1">Audit SEO + AI Discoverability (GEO)</h2>
-                            <p class="geo-subtitle">Generative Engine Optimization</p>
-                            <p class="geo-hook">Fatti citare da ChatGPT, Gemini, Claude, Perplexity</p>
-                            <p class="text-body mb-2">Un audit a perimetro fisso che mostra perche il tuo sito non compare nelle risposte degli strumenti AI, e cosa cambiare per diventare una fonte che l'AI puo citare.</p>
-                            <p class="text-body mb-2">Ricevi un report con punteggio, un piano d'azione prioritizzato e indicazioni chiare per l'implementazione. Niente fuffa, solo interventi utili.</p>
-                            <p class="text-body">Questo audit copre SEO tecnica, struttura dei contenuti e come i sistemi AI interpretano e riutilizzano le informazioni del tuo sito.</p>
-                        </div>
-                        <div>
-                            <ul class="geo-features">
-                                <li class="geo-feature-item">Analisi SEO tecnica e indicizzazione (crawlability, meta, linking interno che influisce sulla lettura da parte dell'AI)</li>
-                                <li class="geo-feature-item">Verifica AI discoverability (chiarezza delle entita, dati strutturati, contenuti citabili)</li>
-                                <li class="geo-feature-item">Gap di contenuto e posizionamento che bloccano lead qualificati</li>
-                                <li class="geo-feature-item">Roadmap prioritaria con stima di effort e impatto</li>
-                            </ul>
-                            <p class="geo-audit-price mb-4">Impegno a scope definito. <span>In caso di collaborazione, il costo dell'audit viene scalato dal primo mese.</span></p>
-                            <div class="geo-audit-ctas">
-                                <a href="#contact" class="btn-primary">
-                                    Inizia con l'audit
-                                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
-                                </a>
-                                <button type="button" class="geo-audit-toggle" :aria-expanded="open.toString()" aria-controls="geo-deliverables-panel-it" @click="open = !open">
-                                    Vedi deliverable
-                                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
-                                </button>
-                            </div>
-                        </div>
-                        <div id="geo-deliverables-panel-it" x-show="open" x-transition.opacity.duration.200ms class="geo-accordion">
-                            <div class="geo-accordion-grid">
-                                <div class="geo-deliverable">
-                                    <p class="geo-deliverable-number">01</p>
-                                    <h4>Report di audit (PDF)</h4>
-                                    <ul>
-                                        <li>Punteggio AI Visibility (0-100)</li>
-                                        <li>Problemi principali ordinati per impatto</li>
-                                        <li>Evidenze tecniche con esempi concreti</li>
-                                    </ul>
-                                </div>
-                                <div class="geo-deliverable">
-                                    <p class="geo-deliverable-number">02</p>
-                                    <h4>Piano d'azione (30-60-90 giorni)</h4>
-                                    <ul>
-                                        <li>Quick win vs interventi piu strutturali</li>
-                                        <li>Responsabili chiari: dev, content, marketing</li>
-                                        <li>Criteri di accettazione per ogni task</li>
-                                    </ul>
-                                </div>
-                                <div class="geo-deliverable">
-                                    <p class="geo-deliverable-number">03</p>
-                                    <h4>Blueprint di implementazione</h4>
-                                    <ul>
-                                        <li>Schema e dati strutturati</li>
-                                        <li>Template pagine e FAQ citabili dall'AI</li>
-                                        <li>Setup tracking per referral da strumenti AI</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="geo-fit">
-                                <div class="geo-fit-good">
-                                    <p class="geo-fit-label">Buon fit se</p>
-                                    <p>B2B, SaaS, servizi, offerte ad alta considerazione</p>
-                                </div>
-                                <div class="geo-fit-bad">
-                                    <p class="geo-fit-label">Non e un fit se</p>
-                                    <p>Vuoi solo piu traffico senza cambiare contenuti o struttura</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <!-- Ways to Work with Me -->
             <section id="engagement" class="section section-divided">
                 <div class="container-wide">
@@ -738,6 +659,83 @@
                         <div class="space-y-4 text-body-lg">
                             <p>Ho costruito prodotti come founder, guidato team, raccolto finanziamenti e preso decisioni reali sotto pressione, spesso con tempo e budget limitati. So dove la chiarezza fa la differenza perché ho vissuto in prima persona cosa succede quando manca.</p>
                             <p>Oggi porto questa prospettiva in ogni collaborazione, unendo giudizio tecnico senior ed esecuzione hands-on per aiutare i team ad andare avanti con maggiore sicurezza.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Entry Offer: GEO Audit -->
+            <section id="geo-audit" class="section" x-data="{ open: false }">
+                <div class="container-wide">
+                    <div class="geo-audit-grid">
+                        <div>
+                            <p class="text-eyebrow mb-2">Servizio singolo</p>
+                            <h2 class="text-h2 mb-1">Audit SEO + AI Discoverability (GEO)</h2>
+                            <p class="geo-subtitle">Generative Engine Optimization</p>
+                            <p class="geo-hook">Fatti citare da ChatGPT, Gemini, Claude, Perplexity</p>
+                            <p class="text-body mb-2">Un audit a perimetro fisso che mostra perche il tuo sito non compare nelle risposte degli strumenti AI, e cosa cambiare per diventare una fonte che l'AI puo citare.</p>
+                            <p class="text-body mb-2">Ricevi un report con punteggio, un piano d'azione prioritizzato e indicazioni chiare per l'implementazione. Niente fuffa, solo interventi utili.</p>
+                            <p class="text-body">Questo audit copre SEO tecnica, struttura dei contenuti e come i sistemi AI interpretano e riutilizzano le informazioni del tuo sito.</p>
+                        </div>
+                        <div>
+                            <ul class="geo-features">
+                                <li class="geo-feature-item">Analisi SEO tecnica e indicizzazione (crawlability, meta, linking interno che influisce sulla lettura da parte dell'AI)</li>
+                                <li class="geo-feature-item">Verifica AI discoverability (chiarezza delle entita, dati strutturati, contenuti citabili)</li>
+                                <li class="geo-feature-item">Gap di contenuto e posizionamento che bloccano lead qualificati</li>
+                                <li class="geo-feature-item">Roadmap prioritaria con stima di effort e impatto</li>
+                            </ul>
+                            <p class="geo-audit-price mb-4">Impegno a scope definito. <span>In caso di collaborazione, il costo dell'audit viene scalato dal primo mese.</span></p>
+                            <div class="geo-audit-ctas">
+                                <a href="#contact" class="btn-primary">
+                                    Inizia con l'audit
+                                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                                </a>
+                                <button type="button" class="geo-audit-toggle" :aria-expanded="open.toString()" aria-controls="geo-deliverables-panel-it" @click="open = !open">
+                                    Vedi deliverable
+                                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                                </button>
+                            </div>
+                        </div>
+                        <div id="geo-deliverables-panel-it" x-show="open" x-transition.opacity.duration.200ms class="geo-accordion">
+                            <div class="geo-accordion-grid">
+                                <div class="geo-deliverable">
+                                    <p class="geo-deliverable-number">01</p>
+                                    <h4>Report di audit (PDF)</h4>
+                                    <ul>
+                                        <li>Punteggio AI Visibility (0-100)</li>
+                                        <li>Problemi principali ordinati per impatto</li>
+                                        <li>Evidenze tecniche con esempi concreti</li>
+                                    </ul>
+                                </div>
+                                <div class="geo-deliverable">
+                                    <p class="geo-deliverable-number">02</p>
+                                    <h4>Piano d'azione (30-60-90 giorni)</h4>
+                                    <ul>
+                                        <li>Quick win vs interventi piu strutturali</li>
+                                        <li>Responsabili chiari: dev, content, marketing</li>
+                                        <li>Criteri di accettazione per ogni task</li>
+                                    </ul>
+                                </div>
+                                <div class="geo-deliverable">
+                                    <p class="geo-deliverable-number">03</p>
+                                    <h4>Blueprint di implementazione</h4>
+                                    <ul>
+                                        <li>Schema e dati strutturati</li>
+                                        <li>Template pagine e FAQ citabili dall'AI</li>
+                                        <li>Setup tracking per referral da strumenti AI</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="geo-fit">
+                                <div class="geo-fit-good">
+                                    <p class="geo-fit-label">Buon fit se</p>
+                                    <p>B2B, SaaS, servizi, offerte ad alta considerazione</p>
+                                </div>
+                                <div class="geo-fit-bad">
+                                    <p class="geo-fit-label">Non e un fit se</p>
+                                    <p>Vuoi solo piu traffico senza cambiare contenuti o struttura</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -380,7 +380,6 @@
                     <!-- Desktop Nav -->
                     <div class="hidden md:flex items-center space-x-8">
                         <a href="#services" class="nav-link">Leistungen</a>
-                        <a href="#geo-audit" class="nav-link">GEO Audit</a>
                         <a href="#background" class="nav-link">Über mich</a>
                         <a href="#faq" class="nav-link">FAQ</a>
                     </div>
@@ -420,7 +419,6 @@
                 <div x-show="mobileMenuOpen" x-cloak x-transition class="md:hidden mobile-menu">
                     <div class="flex flex-col space-y-1">
                         <a href="#services" @click="mobileMenuOpen = false">Leistungen</a>
-                        <a href="#geo-audit" @click="mobileMenuOpen = false">GEO Audit</a>
                         <a href="#background" @click="mobileMenuOpen = false">Über mich</a>
                         <a href="#faq" @click="mobileMenuOpen = false">FAQ</a>
                         <div class="pt-2 mt-2 border-t border-slate-100">
@@ -562,83 +560,6 @@
                 </div>
             </section>
 
-            <!-- Entry Offer: GEO Audit -->
-            <section id="geo-audit" class="section" x-data="{ open: false }">
-                <div class="container-wide">
-                    <div class="geo-audit-grid">
-                        <div>
-                            <p class="text-eyebrow mb-2">Schneller Einstieg</p>
-                            <h2 class="text-h2 mb-1">SEO + KI-Findbarkeit Audit (GEO)</h2>
-                            <p class="geo-subtitle">Generative Engine Optimization</p>
-                            <p class="geo-hook">In KI-Antworten genannt werden (ChatGPT, Gemini, Claude, Perplexity)</p>
-                            <p class="text-body mb-2">Ein klar abgegrenzter Audit, der zeigt, warum Ihre Website in KI-Antworten nicht auftaucht, und was Sie aendern muessen, damit KI-Tools Sie als Quelle zitieren koennen.</p>
-                            <p class="text-body mb-2">Sie erhalten einen Report mit Score, einen priorisierten Massnahmenplan und konkrete Umsetzungshinweise. Ohne Floskeln, nur das, was wirkt.</p>
-                            <p class="text-body">Der Audit umfasst technische SEO, Content-Struktur und wie KI-Systeme Ihre Informationen interpretieren und wiederverwenden.</p>
-                        </div>
-                        <div>
-                            <ul class="geo-features">
-                                <li class="geo-feature-item">Technischer SEO- und Indexierungscheck (Crawlability, Metadaten, interne Links, die die KI-Erfassung beeinflussen)</li>
-                                <li class="geo-feature-item">KI-Findbarkeit (Entity-Klarheit, Structured Data, zitierfaehige Inhalte)</li>
-                                <li class="geo-feature-item">Content- und Positionierungsluecken, die qualifizierte Leads kosten</li>
-                                <li class="geo-feature-item">Priorisierte Roadmap mit Aufwand- und Impact-Schaetzung</li>
-                            </ul>
-                            <p class="geo-audit-price mb-4">Klar definierter Umfang. <span>Bei einer Zusammenarbeit wird das Audit auf den ersten Monat angerechnet.</span></p>
-                            <div class="geo-audit-ctas">
-                                <a href="#contact" class="btn-primary">
-                                    Audit starten
-                                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
-                                </a>
-                                <button type="button" class="geo-audit-toggle" :aria-expanded="open.toString()" aria-controls="geo-deliverables-panel-de" @click="open = !open">
-                                    Deliverables ansehen
-                                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
-                                </button>
-                            </div>
-                        </div>
-                        <div id="geo-deliverables-panel-de" x-show="open" x-transition.opacity.duration.200ms class="geo-accordion">
-                            <div class="geo-accordion-grid">
-                                <div class="geo-deliverable">
-                                    <p class="geo-deliverable-number">01</p>
-                                    <h4>Audit Report (PDF)</h4>
-                                    <ul>
-                                        <li>AI Visibility Score (0 bis 100)</li>
-                                        <li>Top Themen nach Impact priorisiert</li>
-                                        <li>Technische Findings mit konkreten Beispielen</li>
-                                    </ul>
-                                </div>
-                                <div class="geo-deliverable">
-                                    <p class="geo-deliverable-number">02</p>
-                                    <h4>Massnahmenplan (30-60-90 Tage)</h4>
-                                    <ul>
-                                        <li>Quick wins vs groessere Fixes</li>
-                                        <li>Klare Owner: Dev, Content, Marketing</li>
-                                        <li>Akzeptanzkriterien pro Aufgabe</li>
-                                    </ul>
-                                </div>
-                                <div class="geo-deliverable">
-                                    <p class="geo-deliverable-number">03</p>
-                                    <h4>Umsetzungs-Blueprint</h4>
-                                    <ul>
-                                        <li>Schema und Structured Data Empfehlungen</li>
-                                        <li>Seiten- und FAQ-Templates, die KI zitieren kann</li>
-                                        <li>Tracking fuer KI-Referrals</li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="geo-fit">
-                                <div class="geo-fit-good">
-                                    <p class="geo-fit-label">Guter Fit wenn</p>
-                                    <p>B2B, SaaS, Services oder Angebote mit hoher Kaufentscheidung</p>
-                                </div>
-                                <div class="geo-fit-bad">
-                                    <p class="geo-fit-label">Kein Fit wenn</p>
-                                    <p>Sie mehr Traffic wollen, ohne Inhalte oder Struktur zu verbessern</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
             <!-- Ways to Work with Me -->
             <section id="engagement" class="section section-divided">
                 <div class="container-wide">
@@ -738,6 +659,83 @@
                         <div class="space-y-4 text-body-lg">
                             <p>Ich habe Produkte als Gründer aufgebaut, Teams geführt, Finanzierungen begleitet und unter Druck reale Entscheidungen getroffen – oft mit begrenzter Zeit und begrenztem Budget. Ich weiß, wo Klarheit entscheidend ist, weil ich selbst erlebt habe, was passiert, wenn sie fehlt.</p>
                             <p>Diese Perspektive bringe ich heute in jedes Engagement ein und verbinde fundiertes technisches Urteilsvermögen mit hands-on Umsetzung, um Teams dabei zu helfen, sicher voranzukommen.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Entry Offer: GEO Audit -->
+            <section id="geo-audit" class="section" x-data="{ open: false }">
+                <div class="container-wide">
+                    <div class="geo-audit-grid">
+                        <div>
+                            <p class="text-eyebrow mb-2">Einzelleistung</p>
+                            <h2 class="text-h2 mb-1">SEO + KI-Findbarkeit Audit (GEO)</h2>
+                            <p class="geo-subtitle">Generative Engine Optimization</p>
+                            <p class="geo-hook">In KI-Antworten genannt werden (ChatGPT, Gemini, Claude, Perplexity)</p>
+                            <p class="text-body mb-2">Ein klar abgegrenzter Audit, der zeigt, warum Ihre Website in KI-Antworten nicht auftaucht, und was Sie aendern muessen, damit KI-Tools Sie als Quelle zitieren koennen.</p>
+                            <p class="text-body mb-2">Sie erhalten einen Report mit Score, einen priorisierten Massnahmenplan und konkrete Umsetzungshinweise. Ohne Floskeln, nur das, was wirkt.</p>
+                            <p class="text-body">Der Audit umfasst technische SEO, Content-Struktur und wie KI-Systeme Ihre Informationen interpretieren und wiederverwenden.</p>
+                        </div>
+                        <div>
+                            <ul class="geo-features">
+                                <li class="geo-feature-item">Technischer SEO- und Indexierungscheck (Crawlability, Metadaten, interne Links, die die KI-Erfassung beeinflussen)</li>
+                                <li class="geo-feature-item">KI-Findbarkeit (Entity-Klarheit, Structured Data, zitierfaehige Inhalte)</li>
+                                <li class="geo-feature-item">Content- und Positionierungsluecken, die qualifizierte Leads kosten</li>
+                                <li class="geo-feature-item">Priorisierte Roadmap mit Aufwand- und Impact-Schaetzung</li>
+                            </ul>
+                            <p class="geo-audit-price mb-4">Klar definierter Umfang. <span>Bei einer Zusammenarbeit wird das Audit auf den ersten Monat angerechnet.</span></p>
+                            <div class="geo-audit-ctas">
+                                <a href="#contact" class="btn-primary">
+                                    Audit starten
+                                    <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
+                                </a>
+                                <button type="button" class="geo-audit-toggle" :aria-expanded="open.toString()" aria-controls="geo-deliverables-panel-de" @click="open = !open">
+                                    Deliverables ansehen
+                                    <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                                </button>
+                            </div>
+                        </div>
+                        <div id="geo-deliverables-panel-de" x-show="open" x-transition.opacity.duration.200ms class="geo-accordion">
+                            <div class="geo-accordion-grid">
+                                <div class="geo-deliverable">
+                                    <p class="geo-deliverable-number">01</p>
+                                    <h4>Audit Report (PDF)</h4>
+                                    <ul>
+                                        <li>AI Visibility Score (0 bis 100)</li>
+                                        <li>Top Themen nach Impact priorisiert</li>
+                                        <li>Technische Findings mit konkreten Beispielen</li>
+                                    </ul>
+                                </div>
+                                <div class="geo-deliverable">
+                                    <p class="geo-deliverable-number">02</p>
+                                    <h4>Massnahmenplan (30-60-90 Tage)</h4>
+                                    <ul>
+                                        <li>Quick wins vs groessere Fixes</li>
+                                        <li>Klare Owner: Dev, Content, Marketing</li>
+                                        <li>Akzeptanzkriterien pro Aufgabe</li>
+                                    </ul>
+                                </div>
+                                <div class="geo-deliverable">
+                                    <p class="geo-deliverable-number">03</p>
+                                    <h4>Umsetzungs-Blueprint</h4>
+                                    <ul>
+                                        <li>Schema und Structured Data Empfehlungen</li>
+                                        <li>Seiten- und FAQ-Templates, die KI zitieren kann</li>
+                                        <li>Tracking fuer KI-Referrals</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="geo-fit">
+                                <div class="geo-fit-good">
+                                    <p class="geo-fit-label">Guter Fit wenn</p>
+                                    <p>B2B, SaaS, Services oder Angebote mit hoher Kaufentscheidung</p>
+                                </div>
+                                <div class="geo-fit-bad">
+                                    <p class="geo-fit-label">Kein Fit wenn</p>
+                                    <p>Sie mehr Traffic wollen, ohne Inhalte oder Struktur zu verbessern</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
