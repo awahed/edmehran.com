@@ -23,7 +23,7 @@ Engagement options:
 - Technical & AI Assessment (fixed scope)
 - AI Enablement Sprint (time-boxed)
 - Fractional CTO / AI Transformation Lead (ongoing)
-- SEO + AI Discoverability Audit / GEO (fixed scope, CHF 1'000)
+- SEO + AI Discoverability Audit / GEO (fixed scope)
 
 Geography:
 Based in Lugano (Ticino). Serving German- and Italian-speaking Switzerland and working with clients across Switzerland and Germany.

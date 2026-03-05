@@ -23,7 +23,7 @@ Modalità di ingaggio:
 - Assessment tecnico & AI (scope fisso)
 - Sprint di AI enablement (a tempo)
 - CTO esterno / AI transformation lead (continuativo)
-- Audit SEO + AI Discoverability / GEO (scope fisso, CHF 1'000)
+- Audit SEO + AI Discoverability / GEO (scope fisso)
 
 Geografia:
 Base a Lugano (Ticino). Lavoro in Svizzera italiana e Svizzera tedesca, e supporto team in Svizzera e Germania.
