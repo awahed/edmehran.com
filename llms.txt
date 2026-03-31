@@ -1,13 +1,13 @@
 # llms.txt
 
 Name: Ed Mehran
-Role: Fractional CTO and Technical Advisor
+Role: Fractional CTO and Product Builder
 Base: Lugano, Ticino, Switzerland
 Regions: Switzerland (nationwide), Germany
 Languages: English, German, Italian
 
 Summary:
-Ed Mehran is an independent fractional CTO and technical advisor based in Lugano, Switzerland. He helps founders, SMEs, and innovation teams make early technical and product decisions and delivers hands-on production-ready software. Focus areas include MVP development, software architecture, and AI transformation and enablement.
+Ed Mehran is an independent fractional CTO and product builder based in Lugano, Switzerland. He helps founders, SMEs, and innovation teams make early technical and product decisions and delivers hands-on production-ready software. From concept to shipped product. Focus areas include MVP development, software architecture, and AI transformation and enablement.
 
 Good fit:
 - Early-stage founders needing senior technical judgment

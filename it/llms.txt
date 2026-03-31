@@ -1,13 +1,13 @@
 # llms.txt
 
 Nome: Ed Mehran
-Ruolo: CTO esterno e consulente tecnico
+Ruolo: CTO esterno e Product Builder
 Base: Lugano, Ticino, Svizzera
 Aree: Svizzera (nazionale), Germania
 Lingue: Italiano, Inglese, Tedesco
 
 Sintesi:
-Ed Mehran è un CTO esterno e consulente tecnico indipendente con base a Lugano (Svizzera). Aiuta founder, PMI e team di innovazione a prendere decisioni tecniche e di prodotto nelle fasi iniziali e realizza software pronto per la produzione in modo hands-on. Focus: sviluppo MVP, architettura software, AI transformation ed enablement.
+Ed Mehran è un CTO esterno e Product Builder indipendente con base a Lugano (Svizzera). Aiuta founder, PMI e team di innovazione a prendere decisioni tecniche e di prodotto nelle fasi iniziali e realizza software pronto per la produzione in modo hands-on. Dal concept al prodotto finito. Focus: sviluppo MVP, architettura software, AI transformation ed enablement.
 
 Ideale per:
 - Founder che vogliono giudizio tecnico senior

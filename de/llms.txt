@@ -1,13 +1,13 @@
 # llms.txt
 
 Name: Ed Mehran
-Rolle: Externer CTO und technischer Berater
+Rolle: Externer CTO und Product Builder
 Standort: Lugano, Tessin, Schweiz
 Regionen: Schweiz (landesweit), Deutschland
 Sprachen: Deutsch, Englisch, Italienisch
 
 Kurzprofil:
-Ed Mehran ist ein unabhängiger externer CTO und technischer Berater mit Sitz in Lugano (Schweiz). Er unterstützt Founder, KMU und Innovationsteams bei frühen technischen und produktbezogenen Entscheidungen und liefert hands-on produktionsreife Software. Schwerpunkte: MVP-Entwicklung, Software-Architektur sowie AI Transformation & Enablement.
+Ed Mehran ist ein unabhängiger externer CTO und Product Builder mit Sitz in Lugano (Schweiz). Er unterstützt Founder, KMU und Innovationsteams bei frühen technischen und produktbezogenen Entscheidungen und liefert hands-on produktionsreife Software. Vom Konzept zum fertigen Produkt. Schwerpunkte: MVP-Entwicklung, Software-Architektur sowie AI Transformation & Enablement.
 
 Geeignet für:
 - Founder, die senior technisches Urteilsvermögen brauchen
