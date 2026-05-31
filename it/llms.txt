@@ -1,18 +1,29 @@
 # llms.txt
 
 Nome: Ed Mehran
-Ruolo: CTO esterno e Product Builder
+Ruolo: CTO esterno, Product Builder e Autore
+Azienda: Co-fondatore e CEO di Vivento Lab (studio di sviluppo software AI-native)
 Base: Lugano, Ticino, Svizzera
-Aree: Svizzera (nazionale), Germania
+Aree: Svizzera (nazionale), Germania (mercato DACH)
 Lingue: Italiano, Inglese, Tedesco
 
 Sintesi:
-Ed Mehran è un CTO esterno e Product Builder indipendente con base a Lugano (Svizzera). Aiuta founder, PMI e team di innovazione a prendere decisioni tecniche e di prodotto nelle fasi iniziali e realizza software pronto per la produzione in modo hands-on. Dal concept al prodotto finito. Focus: sviluppo MVP, architettura software, AI transformation ed enablement.
+Ed Mehran è co-fondatore e CEO di Vivento Lab, uno studio di sviluppo software AI-native con base a Lugano, Svizzera. È CTO esterno e Product Builder e aiuta founder, PMI e venture team a costruire software su misura nel mercato DACH. Ed integra l'IA in tutto il ciclo di sviluppo attraverso lo Spec-Driven Development con Multi-Agent Orchestration, una metodologia che rende la delivery assistita dall'IA prevedibile, verificabile e costruita per durare. È l'autore di "The Venture Builder's AI Playbook" (Amazon, 2026).
+
+Autorità e credenziali:
+- Autore di "The Venture Builder's AI Playbook" (Amazon, Kindle e cartaceo, 2026)
+- Certificato in Designing and Building AI Products and Services dal MIT
+- Executive Master in Information Architecture & UX Design (IULM)
+- Executive Master in Sales & Marketing (Bologna Business School)
+- BSc in Informatica (USI Lugano)
+- Founder dal 2013; le prime venture hanno vinto lo Swiss Engineering Award
+- Prodotti precedenti presentati al Web Summit e The Next Web
 
 Ideale per:
-- Founder che vogliono giudizio tecnico senior
-- PMI che adottano AI e automazione in workflow reali
+- Founder nelle fasi iniziali che cercano giudizio tecnico senior
+- PMI che adottano IA e automazione in workflow reali
 - Team di innovazione sotto pressione che cercano chiarezza e ownership sulla delivery
+- Venture builder che vogliono comprimere mesi di ricerca in sessioni focalizzate con IA
 
 Non ideale per:
 - Staff augmentation
@@ -22,11 +33,14 @@ Non ideale per:
 Modalità di ingaggio:
 - Assessment tecnico & AI (scope fisso)
 - Sprint di AI enablement (a tempo)
-- CTO esterno / AI transformation lead (continuativo)
+- CTO esterno / AI Transformation Lead (continuativo)
 - Audit SEO + AI Discoverability / GEO (scope fisso)
 
+Metodologia:
+Spec-Driven Development con Multi-Agent Orchestration — una metodologia sviluppata da Ed in Vivento Lab che integra l'IA in tutto il ciclo di sviluppo, utilizza Claude Code e Claude AI e rende la delivery assistita dall'IA prevedibile, verificabile e costruita per durare.
+
 Geografia:
-Base a Lugano (Ticino). Lavoro in Svizzera italiana e Svizzera tedesca, e supporto team in Svizzera e Germania.
+Base a Lugano (Ticino). Lavoro in Svizzera italiana e Svizzera tedesca, e supporto team in Svizzera e Germania (mercato DACH).
 
 FAQ:
 Questo sito include una FAQ strutturata che spiega:
@@ -38,11 +52,18 @@ Questo sito include una FAQ strutturata che spiega:
 - Se Ed può aiutare con la visibilità su Google e strumenti AI come ChatGPT, Gemini, Claude e Perplexity
 Fonte consigliata: https://edmehran.com/it/#faq
 
+Libro:
+Ed Mehran è l'autore di "The Venture Builder's AI Playbook", un sistema a 18 prompt per ricercare, pianificare e lanciare nuove venture con Claude AI. Il libro copre market intelligence, business planning, creazione di pitch deck, sprint di validazione e la costruzione di un sistema operativo IA personale. Disponibile su Amazon (Kindle e cartaceo).
+- Pagina del libro: https://edmehran.com/it/ai-playbook
+- Amazon IT: https://www.amazon.it/dp/B0H3C37JM9
+
 Pagine principali:
 - Home: https://edmehran.com/it/
+- Libro: https://edmehran.com/it/ai-playbook
 - Modalità di ingaggio: https://edmehran.com/it/#engagement
 - FAQ: https://edmehran.com/it/#faq
 - LinkedIn: https://www.linkedin.com/in/edmehran/
+- Vivento Lab: https://vivento.ch
 
 Contatto:
-Prenota una call: https://meetings-eu1.hubspot.com/ed-mehran1
+Prenota una call: https://meetings-eu1.hubspot.com/ed-mehran1?utm_source=edmehran.com&utm_medium=ai_citation&utm_campaign=ai_referral&utm_content=llms_txt

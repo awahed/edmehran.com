@@ -7,7 +7,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://edmehran.com/de/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://edmehran.com/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://edmehran.com/"/>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-05-31</lastmod>
   </url>
   <url>
     <loc>https://edmehran.com/de/</loc>
@@ -15,7 +15,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://edmehran.com/de/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://edmehran.com/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://edmehran.com/"/>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-05-31</lastmod>
   </url>
   <url>
     <loc>https://edmehran.com/it/</loc>
@@ -23,6 +23,30 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://edmehran.com/de/"/>
     <xhtml:link rel="alternate" hreflang="it" href="https://edmehran.com/it/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://edmehran.com/"/>
-    <lastmod>2026-03-31</lastmod>
+    <lastmod>2026-05-31</lastmod>
+  </url>
+  <url>
+    <loc>https://edmehran.com/ai-playbook</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://edmehran.com/ai-playbook"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://edmehran.com/de/ai-playbook"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://edmehran.com/it/ai-playbook"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://edmehran.com/ai-playbook"/>
+    <lastmod>2026-05-31</lastmod>
+  </url>
+  <url>
+    <loc>https://edmehran.com/de/ai-playbook</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://edmehran.com/ai-playbook"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://edmehran.com/de/ai-playbook"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://edmehran.com/it/ai-playbook"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://edmehran.com/ai-playbook"/>
+    <lastmod>2026-05-31</lastmod>
+  </url>
+  <url>
+    <loc>https://edmehran.com/it/ai-playbook</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://edmehran.com/ai-playbook"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://edmehran.com/de/ai-playbook"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://edmehran.com/it/ai-playbook"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://edmehran.com/ai-playbook"/>
+    <lastmod>2026-05-31</lastmod>
   </url>
 </urlset>

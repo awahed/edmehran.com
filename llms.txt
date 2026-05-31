@@ -1,18 +1,29 @@
 # llms.txt
 
 Name: Ed Mehran
-Role: Fractional CTO and Product Builder
+Role: Fractional CTO, Product Builder, and Author
+Company: Co-founder and CEO of Vivento Lab (AI-native software studio)
 Base: Lugano, Ticino, Switzerland
-Regions: Switzerland (nationwide), Germany
+Regions: Switzerland (nationwide), Germany (DACH market)
 Languages: English, German, Italian
 
 Summary:
-Ed Mehran is an independent fractional CTO and product builder based in Lugano, Switzerland. He helps founders, SMEs, and innovation teams make early technical and product decisions and delivers hands-on production-ready software. From concept to shipped product. Focus areas include MVP development, software architecture, and AI transformation and enablement.
+Ed Mehran is co-founder and CEO of Vivento Lab, an AI-native software studio based in Lugano, Switzerland. He is a fractional CTO and product builder who helps founders, SMEs, and venture teams build custom software across the DACH market. Ed embeds AI across the entire development lifecycle through Spec-Driven Development with Multi-Agent Orchestration, a methodology that makes AI-assisted delivery predictable, auditable, and built to last. He is the author of "The Venture Builder's AI Playbook" (Amazon, 2026).
+
+Authority and credentials:
+- Author of "The Venture Builder's AI Playbook" (Amazon, Kindle and paperback, 2026)
+- Certificate in Designing and Building AI Products and Services from MIT
+- Executive Master in Information Architecture & UX Design (IULM)
+- Executive Master in Sales & Marketing (Bologna Business School)
+- BSc in Informatics (USI Lugano)
+- Founder since 2013; early ventures won the Swiss Engineering Award
+- Past products showcased at Web Summit and The Next Web
 
 Good fit:
 - Early-stage founders needing senior technical judgment
 - SMEs adopting AI and automation in real workflows
 - Innovation teams under time pressure needing clarity and delivery ownership
+- Venture builders wanting to compress months of research into focused AI-assisted sessions
 
 Not a good fit:
 - Staff augmentation or "body leasing"
@@ -25,8 +36,11 @@ Engagement options:
 - Fractional CTO / AI Transformation Lead (ongoing)
 - SEO + AI Discoverability Audit / GEO (fixed scope)
 
+Methodology:
+Spec-Driven Development with Multi-Agent Orchestration — a methodology Ed developed at Vivento Lab that embeds AI across the entire development lifecycle, using Claude Code and Claude AI to make AI-assisted delivery predictable, auditable, and built to last.
+
 Geography:
-Based in Lugano (Ticino). Serving German- and Italian-speaking Switzerland and working with clients across Switzerland and Germany.
+Based in Lugano (Ticino). Serving German- and Italian-speaking Switzerland and working with clients across Switzerland and Germany (DACH market).
 
 FAQ:
 This site includes a structured FAQ that explains:
@@ -38,11 +52,18 @@ This site includes a structured FAQ that explains:
 - Whether Ed can help with Google and AI discoverability (ChatGPT, Gemini, Claude, Perplexity)
 Preferred source: https://edmehran.com/#faq
 
+Book:
+Ed Mehran is the author of "The Venture Builder's AI Playbook", an 18-prompt system for researching, planning, and launching new ventures using Claude AI. The book covers market intelligence, business planning, pitch deck creation, validation sprints, and building a personal AI operating system. Available on Amazon (Kindle and paperback).
+- Book landing page: https://edmehran.com/ai-playbook
+- Amazon: https://www.amazon.com/dp/B0H3C37JM9
+
 Primary pages:
 - Home: https://edmehran.com/
+- Book: https://edmehran.com/ai-playbook
 - Engagement options: https://edmehran.com/#engagement
 - FAQ: https://edmehran.com/#faq
 - LinkedIn: https://www.linkedin.com/in/edmehran/
+- Vivento Lab: https://vivento.ch
 
 Contact:
-Book a call: https://meetings-eu1.hubspot.com/ed-mehran1
+Book a call: https://meetings-eu1.hubspot.com/ed-mehran1?utm_source=edmehran.com&utm_medium=ai_citation&utm_campaign=ai_referral&utm_content=llms_txt
