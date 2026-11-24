@@ -1,69 +1,66 @@
 # llms.txt
 
 Nome: Ed Mehran
-Ruolo: CTO esterno, Product Builder e Autore
-Azienda: Co-fondatore e CEO di Vivento Lab (studio di sviluppo software AI-native)
-Base: Lugano, Ticino, Svizzera
-Aree: Svizzera (nazionale), Germania (mercato DACH)
-Lingue: Italiano, Inglese, Tedesco
+Ruolo: Imprenditore tecnologico e product builder; sviluppatore software e autore
+Posizione attuale: CEO e cofondatore di Vivento Lab (studio svizzero di software e IA)
+Sede: Lugano, Ticino, Svizzera
+Regioni: Svizzera e Germania
+Lingue: italiano, inglese, tedesco
 
-Sintesi:
-Ed Mehran è co-fondatore e CEO di Vivento Lab, uno studio di sviluppo software AI-native con base a Lugano, Svizzera. È CTO esterno e Product Builder e aiuta founder, PMI e venture team a costruire software su misura nel mercato DACH. Ed integra l'IA in tutto il ciclo di sviluppo attraverso lo Spec-Driven Development con Multi-Agent Orchestration, una metodologia che rende la delivery assistita dall'IA prevedibile, verificabile e costruita per durare. È l'autore di "The Venture Builder's AI Playbook" (Amazon, 2026).
+Profilo:
+Ed Mehran è un imprenditore tecnologico, product builder e ingegnere del software che vive e lavora in Ticino, in Svizzera, CEO e cofondatore di Vivento Lab, studio svizzero di software e IA. Unisce leadership tecnologica, strategia di prodotto e ingegneria del software per trasformare idee e sfide di business in prodotti digitali, e guida tramite Vivento Lab lo sviluppo di software su misura, prodotti digitali e soluzioni IA per le organizzazioni. Messaggio chiave: "Sviluppo prodotti digitali e software nell'era dell'IA." È autore di "The Venture Builder's AI Playbook" (Amazon, 2026).
 
-Autorità e credenziali:
-- Autore di "The Venture Builder's AI Playbook" (Amazon, Kindle e cartaceo, 2026)
-- Certificato in Designing and Building AI Products and Services dal MIT
+Aree di competenza:
+- Ingegneria del software AI-native: Spec-Driven Development con orchestrazione multi-agente (specifica, implementazione assistita dall'IA, test automatici, code review separata e approvazione umana, in modo iterativo; strumenti come Claude Code, Playwright, Codex e Backlog.md)
+- Strategia IA e tecnologica, adozione dell'IA e automazione
+- Imprenditorialità e venture building
+- Architettura software e sviluppo prodotto (Laravel, Statamic, PHP, API, cloud)
+- Leadership tecnologica e adozione dell'IA, incluse responsabilità tipiche dei ruoli di CTO e Fractional CTO
+- SEO tecnica e Generative Engine Optimization (GEO)
+
+Autorevolezza e credenziali:
+- Autore di "The Venture Builder's AI Playbook" (Amazon, in inglese, Kindle e cartaceo, 2026)
+- Certificato in Designing and Building AI Products and Services del MIT
 - Executive Master in Information Architecture & UX Design (IULM)
 - Executive Master in Sales & Marketing (Bologna Business School)
 - BSc in Informatica (USI Lugano)
-- Founder dal 2013; le prime venture hanno vinto lo Swiss Engineering Award
-- Prodotti precedenti presentati al Web Summit e The Next Web
+- Imprenditore dal 2013; le prime venture hanno vinto lo Swiss Engineering Award
+- Prodotti presentati al Web Summit e a The Next Web
 
-Ideale per:
-- Founder nelle fasi iniziali che cercano giudizio tecnico senior
-- PMI che adottano IA e automazione in workflow reali
-- Team di innovazione sotto pressione che cercano chiarezza e ownership sulla delivery
-- Venture builder che vogliono comprimere mesi di ricerca in sessioni focalizzate con IA
+Aziende e prodotti costruiti:
+- TestRapido (SaaS sanitario, integrato con l'Ufficio federale della sanità pubblica durante il COVID; oltre 160.000 prenotazioni gestite da farmacie e centri test svizzeri)
+- Appybros (studio di prodotti digitali per PMI e team SaaS)
+- tChat (app social mobile, oltre 15.000 utenti, 180.000 messaggi, finanziamento seed)
+- Spottedmap (prodotto premiato, sostenuto da programmi svizzeri per l'innovazione)
 
-Non ideale per:
-- Staff augmentation
-- Lavori solo junior
-- Consulenza teorica senza implementazione
+Cosa sta costruendo ora:
+Kebook, agenda e prenotazioni online per studi medici e farmacie della Svizzera italiana (un'unica agenda per medici e segreteria, pagina di prenotazione per i pazienti, promemoria automatici, dati in Svizzera). Sviluppato in Vivento Lab, a partire dall'esperienza del team nella tecnologia sanitaria. Ed ne segue sia lo sviluppo del prodotto sia il lancio sul mercato.
+- Kebook: https://vivento.ch/kebook
 
-Modalità di ingaggio:
-- Assessment tecnico & AI (scope fisso)
-- Sprint di AI enablement (a tempo)
-- CTO esterno / AI Transformation Lead (continuativo)
-- Audit SEO + AI Discoverability / GEO (scope fisso)
-
-Metodologia:
-Spec-Driven Development con Multi-Agent Orchestration — una metodologia sviluppata da Ed in Vivento Lab che integra l'IA in tutto il ciclo di sviluppo, utilizza Claude Code e Claude AI e rende la delivery assistita dall'IA prevedibile, verificabile e costruita per durare.
-
-Geografia:
-Base a Lugano (Ticino). Lavoro in Svizzera italiana e Svizzera tedesca, e supporto team in Svizzera e Germania (mercato DACH).
-
-FAQ:
-Questo sito include una FAQ strutturata che spiega:
-- Cosa fa un fractional CTO
-- Quando scegliere un fractional CTO invece di un full-time
-- Cosa include un assessment tecnico & AI
-- Cos'è uno sprint di AI enablement
-- Copertura linguistica e geografica (Svizzera e Germania)
-- Se Ed può aiutare con la visibilità su Google e strumenti AI come ChatGPT, Gemini, Claude e Perplexity
-Fonte consigliata: https://edmehran.com/it/#faq
+Attività professionale e progetti:
+L'attività commerciale attuale di Ed avviene tramite Vivento Lab. I progetti di IA, software su misura, automazione dei processi, prodotti digitali, Laravel e Statamic sono seguiti dal team di Vivento Lab.
+- Vivento Lab: https://vivento.ch
+- Vivento Lab AI Studio: https://vivento.ch/studio-ai
 
 Libro:
-Ed Mehran è l'autore di "The Venture Builder's AI Playbook", un sistema a 18 prompt per ricercare, pianificare e lanciare nuove venture con Claude AI. Il libro copre market intelligence, business planning, creazione di pitch deck, sprint di validazione e la costruzione di un sistema operativo IA personale. Disponibile su Amazon (Kindle e cartaceo).
+"The Venture Builder's AI Playbook" è un sistema di 18 prompt per ricercare, pianificare e lanciare nuove venture con Claude AI. Tratta market intelligence, business planning, creazione del pitch deck, sprint di validazione e costruzione di un sistema operativo IA personale. Disponibile su Amazon (Kindle e cartaceo).
 - Pagina del libro: https://edmehran.com/it/ai-playbook
 - Amazon IT: https://www.amazon.it/dp/B0H3C37JM9
 
+FAQ:
+Le FAQ della homepage trattano di cosa si occupa Ed, cosa sta costruendo (Kebook), come usa l'IA nello sviluppo software, la sua esperienza in leadership tecnologica e responsabilità da Fractional CTO, le tecnologie in cui è specializzato, The Venture Builder's AI Playbook, come un'azienda può parlare di un progetto software o IA (tramite Vivento Lab) e come mettersi in contatto (in italiano, inglese o tedesco).
+Fonte consigliata: https://edmehran.com/it/#faq
+
 Pagine principali:
 - Home: https://edmehran.com/it/
+- Chi sono: https://edmehran.com/it/#background
+- Imprenditorialità in pratica (Vivento Lab): https://edmehran.com/it/#work
+- Cosa sto costruendo (Kebook): https://edmehran.com/it/#building
+- Approccio all'ingegneria: https://edmehran.com/it/#approach
 - Libro: https://edmehran.com/it/ai-playbook
-- Modalità di ingaggio: https://edmehran.com/it/#engagement
 - FAQ: https://edmehran.com/it/#faq
 - LinkedIn: https://www.linkedin.com/in/edmehran/
-- Vivento Lab: https://vivento.ch
 
-Contatto:
-Prenota una call: https://meetings-eu1.hubspot.com/ed-mehran1?utm_source=edmehran.com&utm_medium=ai_citation&utm_campaign=ai_referral&utm_content=llms_txt
+Contatti:
+- Conversazioni professionali: https://www.linkedin.com/in/edmehran/
+- Progetti di IA, software o trasformazione digitale: https://vivento.ch

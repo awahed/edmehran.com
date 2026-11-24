@@ -1,69 +1,66 @@
 # llms.txt
 
 Name: Ed Mehran
-Rolle: Externer CTO, Product Builder und Autor
-Unternehmen: Mitgründer und CEO von Vivento Lab (AI-Native Software-Studio)
+Rolle: Technologieunternehmer und Product Builder; Softwareentwickler und Autor
+Aktuelle Position: CEO und Mitgründer von Vivento Lab (Schweizer Software- und KI-Studio)
 Standort: Lugano, Tessin, Schweiz
-Regionen: Schweiz (landesweit), Deutschland (DACH-Markt)
+Regionen: Schweiz und Deutschland
 Sprachen: Deutsch, Englisch, Italienisch
 
 Kurzprofil:
-Ed Mehran ist Mitgründer und CEO von Vivento Lab, einem AI-Native Software-Studio mit Sitz in Lugano, Schweiz. Er ist externer CTO und Product Builder und unterstützt Founder, KMU und Venture-Teams beim Aufbau massgeschneiderter Software im DACH-Markt. Ed integriert KI über den gesamten Entwicklungszyklus hinweg durch Spec-Driven Development mit Multi-Agent Orchestration, eine Methodik, die KI-gestützte Auslieferung vorhersehbar, nachvollziehbar und langlebig macht. Er ist Autor von "The Venture Builder's AI Playbook" (Amazon, 2026).
+Ed Mehran ist Technologieunternehmer, Product Builder und Softwareentwickler mit Sitz in der Schweiz sowie CEO und Mitgründer von Vivento Lab, einem Schweizer Software- und KI-Studio. Er verbindet technologische Führung, Produktstrategie und Software-Engineering, um aus Ideen und geschäftlichen Herausforderungen digitale Produkte zu machen, und leitet über Vivento Lab die Entwicklung individueller Software, digitaler Produkte und KI-Lösungen für Organisationen. Kernbotschaft: "Ich entwickle digitale Produkte und Software im Zeitalter der KI." Er ist Autor von "The Venture Builder's AI Playbook" (Amazon, 2026).
+
+Kompetenzfelder:
+- KI-native Softwareentwicklung: Spec-Driven Development mit Multi-Agent-Orchestrierung (Spezifikation, KI-gestützte Umsetzung, automatisierte Tests, separates Code-Review und menschliche Freigabe, iterativ; Tools wie Claude Code, Playwright, Codex und Backlog.md)
+- KI- und Technologiestrategie, KI-Adoption und Automatisierung
+- Unternehmertum und Venture Building
+- Softwarearchitektur und Produktentwicklung (Laravel, Statamic, PHP, APIs, Cloud)
+- Technologieführung und KI-Adoption, inklusive Aufgaben, die typischerweise zu CTO- und Fractional-CTO-Rollen gehören
+- Technisches SEO und Generative Engine Optimization (GEO)
 
 Autorität und Qualifikationen:
-- Autor von "The Venture Builder's AI Playbook" (Amazon, Kindle und Taschenbuch, 2026)
+- Autor von "The Venture Builder's AI Playbook" (Amazon, in englischer Sprache, Kindle und Taschenbuch, 2026)
 - Zertifikat in Designing and Building AI Products and Services vom MIT
 - Executive Master in Information Architecture & UX Design (IULM)
 - Executive Master in Sales & Marketing (Bologna Business School)
 - BSc in Informatik (USI Lugano)
-- Founder seit 2013; frühere Ventures wurden mit dem Swiss Engineering Award ausgezeichnet
+- Gründer seit 2013; frühere Ventures wurden mit dem Swiss Engineering Award ausgezeichnet
 - Frühere Produkte am Web Summit und The Next Web präsentiert
 
-Geeignet für:
-- Founder in frühen Phasen, die senior technisches Urteilsvermögen brauchen
-- KMU, die KI und Automatisierung in reale Workflows bringen wollen
-- Innovationsteams unter Zeitdruck, die Klarheit und Delivery Ownership brauchen
-- Venture-Builder, die Monate an Recherche in fokussierte KI-gestützte Sessions komprimieren wollen
+Aufgebaute Unternehmen und Produkte:
+- TestRapido (Healthcare-SaaS, während COVID an das Bundesamt für Gesundheit angebunden; über 160'000 Buchungen in Schweizer Apotheken und Testzentren)
+- Appybros (Digital-Produkt-Studio für KMU und SaaS-Teams)
+- tChat (mobile Social-App, 15'000+ Nutzer, 180'000 Nachrichten, Seed-Finanzierung)
+- Spottedmap (preisgekröntes Produkt, Schweizer Innovationsförderung)
 
-Nicht geeignet für:
-- Staff Augmentation / Body Leasing
-- Reine Junior-Entwicklung
-- Rein theoretische Beratung ohne Umsetzung
+Woran Ed gerade baut:
+Kebook, Online-Terminbuchung und Agenda für Arztpraxen und Apotheken in der italienischsprachigen Schweiz (gemeinsame Agenda für Ärzte und Empfang, Buchungsseite für Patienten, automatische Erinnerungen, Daten in der Schweiz). Entwickelt bei Vivento Lab, aufbauend auf der bisherigen Erfahrung des Teams mit Healthcare-Technologie. Ed treibt Produktentwicklung und Markteinführung voran.
+- Kebook: https://vivento.ch/de/kebook
 
-Engagement-Optionen:
-- Technisches & AI Assessment (Fixed Scope)
-- AI Enablement Sprint (Time-boxed)
-- Fractional CTO / AI Transformation Lead (laufend)
-- SEO + KI-Findbarkeit Audit / GEO (Fixed Scope)
-
-Methodik:
-Spec-Driven Development mit Multi-Agent Orchestration — eine Methodik, die Ed bei Vivento Lab entwickelt hat. Sie integriert KI über den gesamten Entwicklungszyklus hinweg, verwendet Claude Code und Claude AI und macht KI-gestützte Auslieferung vorhersehbar, nachvollziehbar und langlebig.
-
-Geografie:
-Base in Lugano (Tessin). Arbeit in der deutsch- und italienischsprachigen Schweiz sowie mit Kunden in der Schweiz und in Deutschland (DACH-Markt).
-
-FAQ:
-Diese Website enthält eine strukturierte FAQ mit Antworten zu:
-- Was ein Fractional CTO macht
-- Wann Fractional CTO statt Vollzeit sinnvoll ist
-- Was ein technisches & AI Assessment umfasst
-- Was ein AI Enablement Sprint ist
-- Sprach- und Regionsabdeckung (Schweiz und Deutschland)
-- Ob Ed bei der Auffindbarkeit in Google und KI-Tools wie ChatGPT, Gemini, Claude und Perplexity helfen kann
-Bevorzugte Quelle: https://edmehran.com/de/#faq
+Berufliche Tätigkeit und Projekte:
+Eds aktuelle kommerzielle Tätigkeit erfolgt über Vivento Lab. Projekte in KI, individueller Software, Prozessautomatisierung, digitalen Produkten, Laravel und Statamic betreut das Team von Vivento Lab.
+- Vivento Lab: https://vivento.ch/de
+- Vivento Lab AI Studio: https://vivento.ch/de/ki-studio
 
 Buch:
-Ed Mehran ist der Autor von "The Venture Builder's AI Playbook", einem 18-Prompt-System zur Recherche, Planung und Gründung neuer Ventures mit Claude AI. Das Buch deckt Marktanalyse, Businessplanung, Pitch-Deck-Erstellung, Validierungs-Sprints und den Aufbau eines persönlichen KI-Betriebssystems ab. Erhältlich auf Amazon (Kindle und Taschenbuch).
+"The Venture Builder's AI Playbook" ist ein 18-Prompt-System, um mit Claude AI neue Ventures zu recherchieren, zu planen und zu lancieren. Es behandelt Market Intelligence, Geschäftsplanung, Pitch-Deck-Erstellung, Validierungssprints und den Aufbau eines persönlichen KI-Betriebssystems. Erhältlich auf Amazon (Kindle und Taschenbuch).
 - Buch-Landingpage: https://edmehran.com/de/ai-playbook
 - Amazon DE: https://www.amazon.de/dp/B0H3C37JM9
 
+FAQ:
+Die FAQ auf der Startseite behandeln, was Ed macht, woran er gerade baut (Kebook), wie er KI in der Softwareentwicklung einsetzt, seine Erfahrung in technologischer Führung und mit Fractional-CTO-Aufgaben, seine technologischen Schwerpunkte, The Venture Builder's AI Playbook, wie Unternehmen ein Software- oder KI-Projekt besprechen können (über Vivento Lab) und wie man sich vernetzt (auf Deutsch, Englisch oder Italienisch).
+Bevorzugte Quelle: https://edmehran.com/de/#faq
+
 Wichtige Seiten:
 - Start: https://edmehran.com/de/
+- Über mich: https://edmehran.com/de/#background
+- Unternehmertum in der Praxis (Vivento Lab): https://edmehran.com/de/#work
+- Woran ich gerade baue (Kebook): https://edmehran.com/de/#building
+- Engineering-Ansatz: https://edmehran.com/de/#approach
 - Buch: https://edmehran.com/de/ai-playbook
-- Zusammenarbeit: https://edmehran.com/de/#engagement
 - FAQ: https://edmehran.com/de/#faq
 - LinkedIn: https://www.linkedin.com/in/edmehran/
-- Vivento Lab: https://vivento.ch
 
 Kontakt:
-Call buchen: https://meetings-eu1.hubspot.com/ed-mehran1?utm_source=edmehran.com&utm_medium=ai_citation&utm_campaign=ai_referral&utm_content=llms_txt
+- Berufliche Gespräche: https://www.linkedin.com/in/edmehran/
+- Projekte in KI, Software oder digitaler Transformation: https://vivento.ch/de
